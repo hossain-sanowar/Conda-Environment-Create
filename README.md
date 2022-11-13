@@ -16,3 +16,9 @@ echo "activating virual environment"
 echo "virtrual environment activated"
 source virtualenv/bin/activate
 ```
+# how to activate the command
+```
+chmod +x setup.sh
+./setup.sh
+source virtualenv/bin/activate
+```
